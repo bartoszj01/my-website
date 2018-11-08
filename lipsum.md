@@ -4,4 +4,4 @@ Nunc scelerisque velit est, nec euismod dolor sollicitudin non. Cras at pulvinar
 Aenean egestas sit amet ligula vitae eleifend. Quisque commodo, metus a convallis elementum, orci leo gravida lacus, sed semper 
 turpis nulla non elit. Integer aliquet dolor eu tempor efficitur. Integer ut erat eu ipsum ultrices pulvinar non et ante. 
 Aliquam in est posuere, mollis leo ut, tincidunt urna. Nulla gravida mauris a mollis efficitur. Phasellus efficitur commodo risus, 
-fermentum ultricies eros tempor quis. Praesent eleifend euismod venenatis. Cras quis ornare nunc.
+fermentum ultricies eros tempor quis. Praesent eleifend euismod venenatis.
